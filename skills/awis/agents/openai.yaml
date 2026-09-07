@@ -1,0 +1,4 @@
+interface:
+  display_name: "AWIS"
+  short_description: "Refine Blender scenes through verified visual comparisons"
+  default_prompt: "Use $awis to improve my Blender scene against the supplied reference with documented before-and-after renders."
